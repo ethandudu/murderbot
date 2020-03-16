@@ -254,6 +254,7 @@ async def bruh(ctx, amount=100):
 
 
 try:
-    bot.run("Njg4NDUxNDU3MjIwODcwMTkw.Xm0hRg.SguqdL2BUC-nLJL3AcGQprTCUIE")
+    bot.run("Njg4NDUxNDU3MjIwODcwMTkw.Xm0hRg.SguqdL2BUC-nLJL3AcGQprTCUI")
 except KeyboardInterrupt:
         print("\n\n************************************\n\n")
+#E
